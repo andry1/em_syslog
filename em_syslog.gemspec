@@ -54,4 +54,5 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<thoughtbot-shoulda>, [">= 0"])
     s.add_dependency(%q<eventmachine>, [">= 0"])
   end
+
 end
